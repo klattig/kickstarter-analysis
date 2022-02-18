@@ -28,7 +28,7 @@ Difficulties were not too present in this current analysis; however, it should b
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/klattig/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 Two Conclusions we can draw in reviewing the Outcomes Based on Launch Date are that events Launched in May had the Highest Potential for success. In December we see that the total number of events decreased as well as the number of successful events. Based on this information a May Launch is recommended. 
 
