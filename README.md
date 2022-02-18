@@ -34,6 +34,8 @@ Two Conclusions we can draw in reviewing the Outcomes Based on Launch Date are t
 
 - What can you conclude about the Outcomes based on Goals?
 
+![Theater_Outcomes_vs_Goals](https://github.com/klattig/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 Two Conclusions we can draw in reviewing the Outcomes Based on Goals are that first most projects fall in the $1000-$4,999 range, and that the same bracket also boasts second in success percentage. Based on these finding goal range in this bracket is recommended. 
 
 - What are some limitations of this dataset?
